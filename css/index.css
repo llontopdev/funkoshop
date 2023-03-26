@@ -106,8 +106,11 @@ header .navegacion {
 
 /* banner */
 .banner {
+  /* 
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url("../img/funkos-banner.webp");
-  /* le puse un gradiente oscuro al fondo para que el texto sea mas legible */
+  le puse un gradiente oscuro al fondo para que el texto sea mas legible */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url("https://llontopdev.github.io/funkoshop/img/funkos-banner.webp");  
+  
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
